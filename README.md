@@ -2,6 +2,8 @@
 
 ## TechMaster 2006
 
+#Image: https://pcpartpicker.com/b/cL8KHx
+
 **Exciting Features:**
 - **Processor:** Intel Pentium 4, 2.8GHz
 - **Storage:** 160GB HDD
@@ -12,6 +14,8 @@
 - **Other Features:** DVD-RW Drive, Windows XP OS
 
 ## MacBook Air (M2, 2022)
+
+#Image: https://www.techradar.com/reviews/apple-macbook-pro-13-inch-m2-2022
 
 **Exciting Features:**
 - **Processor:** Apple M2 Chip
