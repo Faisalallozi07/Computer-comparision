@@ -1,44 +1,36 @@
-### Computer-comparision 
+# Computer Comparison
 
+## TechMaster 2006
 
-My computer from before I was born: TechMaster 2006
+**Exciting Features:**
+- **Processor:** Intel Pentium 4, 2.8GHz
+- **Storage:** 160GB HDD
+- **Memory:** 2GB RAM
+- **Graphics Card:** NVIDIA GeForce 6600 (128MB VRAM)
+- **Sound Card:** Creative Sound Blaster Audigy
+- **Display:** 17" LCD Monitor
+- **Other Features:** DVD-RW Drive, Windows XP OS
 
-## Exciting Features
+## MacBook Air (M2, 2022)
 
-**Processor:** Intel Pentiun 4, 2.8GHz
-**Storage:** 160GB HDD
-**Memory:** 2GB RAM
-**Graphics Card:** NVIDIA GeForce 6600 (128MB VRAM)
-**Sound Card:** Creativee Sound Blasster Audigy
-**Display:** 17" LCD Monitor
-**Other Features:** DVD-RW Drive, Windows XP OS
+**Exciting Features:**
+- **Processor:** Apple M2 Chip
+- **Storage:** 512GB SSD
+- **Memory:** 16GB RAM
+- **Graphics Card:** Apple M2 GPU (8-core)
+- **Sound Card:** Apple-designed Audio
+- **Display:** 13.3" Retina Display
+- **Other Features:** macOS Monterey, Thunderbolt 4 ports, Magic Keyboard
 
-![TechMaster 2006](techMaster2006.jpg)
+## Comparison:
 
-***
+| Feature         | TechMaster 2006               | MacBook Air (M2, 2022)       |
+| --------------- | ----------------------------- | ---------------------------- |
+| Processor       | Pentium 4, 2.8GHz             | Apple M2 Chip               |
+| Storage         | 160GB HDD                     | 512GB SSD                   |
+| Memory          | 2GB RAM                       | 16GB RAM                    |
+| Graphics Card   | GeForce 6600 (128MB VRAM)     | Apple M2 GPU (8-core)       |
+| Operating System| Windows XP                    | macOS Monterey              |
 
-My curent computer: MacBook Air (M2, 2022)
+The advancements in technology are evident when comparing TechMaster 2006 to the MacBook Air (M2, 2022). The MacBook Air provides a faster procesor, significatly larger storage capacity, memory, and a more powerful graphics card. Additionally, it runs on the modern macOS Monterey, showcasing the evolution of operating systems.
 
-## Exciting Feature
-
-**Processor:** Apple M2 Chip
-**Storage:** 512GB SSD
-**Memory:** 16GB RAM
-**Graphics Card:** Apple M2 GPU (8-core)
-**Sound Card:** Apple-designed Audio
-**Display:** 13.3" Retina Display
-**Other Features:** macOS Monterey, Thunderbolt 4 ports, Magic Keyboard
-
-## ![MacBook Air (M2, 2022)](macBookAir2022.jpg)
-
-Comparison:
-
-| Feature          | TechMaster        | MacBook Air|
-|------------------|-----------------------|-------------------------|
-| Processor        | Pentiun 4, 2.8GHz     | Apple M2 Chip           |
-| Storage          | 160GB HDD             | 512GB SSD               |
-| Memory           | 2GIGS RAM               | 16GB RAM                |
-| Graphics Card    | GeForc 6600 (128MB)  | Apple M2 GPU (8-core)   |
-| Operating Syste | Windows XP            | macOS Monterey          |
-
-As you can see the price for computers has decreaser whiIe the quality has increased, showing that the quality of computers has increased significantly over time.
