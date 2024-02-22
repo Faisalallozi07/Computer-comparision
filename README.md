@@ -2,7 +2,8 @@
 
 ## TechMaster 2006
 
-#Image: https://pcpartpicker.com/b/cL8KHx
+
+![TechMaster 2006](https://pcpartpicker.com/b/cL8KHx)
 
 **Exciting Features:**
 - **Processor:** Intel Pentium 4, 2.8GHz
@@ -15,7 +16,7 @@
 
 ## MacBook Air (M2, 2022)
 
-#Image: https://www.techradar.com/reviews/apple-macbook-pro-13-inch-m2-2022
+![MacBook Air (M2, 2022)](https://www.techradar.com/reviews/apple-macbook-pro-13-inch-m2-2022)
 
 **Exciting Features:**
 - **Processor:** Apple M2 Chip
