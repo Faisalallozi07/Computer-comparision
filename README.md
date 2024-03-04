@@ -12,7 +12,7 @@
 - **Graphics Card:** NVIDIA GeForce 6600 (128MB VRAM)
 - **Sound Card:** Creative Sound Blaster Audigy
 - **Display:** 17" LCD Monitor
-- **Other Features:** DVD-RW Drive, Windows XP OS
+
 
 ## MacBook Air (M2, 2022)
 
@@ -25,17 +25,16 @@
 - **Graphics Card:** Apple M2 GPU (8-core)
 - **Sound Card:** Apple-designed Audio
 - **Display:** 13.3" Retina Display
-- **Other Features:** macOS Monterey, Thunderbolt 4 ports, Magic Keyboard
 
 ## Comparison:
 
 | Feature         | TechMaster 2006               | MacBook Air (M2, 2022)       |
 | --------------- | ----------------------------- | ---------------------------- |
-| Processor       | Pentium 4, 2.8GHz             | Apple M2 Chip               |
+| Procesor       | Pentium 4, 2.8GHz             | Apple M2 Chip               |
 | Storage         | 160GB HD                     | 512GB SD                   |
-| Memory          | 2GB RM                       | 16GB RAM                    |
+| Memry          | 2GB RM                       | 16GB RAM                    |
 | Graphics Card   | GeForce 6600 (128MB VRAM)     | Apple M2 GPU        |
 | Operating System| Windows XP                    | macOS Montery              |
 
-The advancements in technology are evident when comparing TechMaster 2006 to the MacBook Air (M2, 2022). The MacBook Air provides a faster procesor, significatly larger storage capacity, memory, and a more powerful graphics card. Additionally, it runs on the modern macOS Monterey, showcasing the evolution of operating systems.
+ Comparing TechMaster 2006 to the MacBook Air (M2, 2022). The MacBook Air provides a faster procesor, significatly larger storage capacity, memory, and a more powerful graphics card. Additionally, it runs on the modern macOS Monterey, showcasing the evolution of operating systems.
 
